@@ -1,91 +1,154 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Steven Hawes' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Steven Hawes
+PhD, University of Sydney, Australia
+
+Address: 6 Dunbar Walk, 459277, Singapore<br>
+Phone: +65 8815 8428
+<a href="maxhawes@gmail.com">E-mail: maxhawes@gmail.com</a>
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+ <a href="http://www.linkedin.com/in/steven-hawes-biologist"><i class="fab fa-linkedin"></i> LinkedIn</a><br>
+  <a href="https://github.com/shawes"><i class="fab fa-github"></i> Github</a><br>
+  <a href="https://codestats.net/users/shawes"><i class="fas fa-file-code"></i>  Code::stats</a><br>
+  <a href="https://www.researchgate.net/profile/Steven_Hawes"><i class="ai ai-researchgate"></i> Researchgate</a><br>
+  <a href="https://twitter.com/stevehawes"><i class="fab fa-twitter"></i> @stevehawes</a><br>
+    <a href="https://orcid.org/0000-0003-4463-3419"><i class="ai ai-orcid"></i> ORCID</a><br>
 </div>
 
+## Personal
 
-## Currently
+Birth date: 27 August 1981
 
-Standing on the shoulders of giants
+Citizenship: Australian
 
-### Specialized in
+Residence: Singapore (Long Term Visit Pass with Pre-approved Letter of Consent of Approval to Work from Ministry of Manpower valid until May 2020)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Family: Married (Spouse is Singapore Citizen)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2018`
+**Ph.D., Marine Ecology**, *University of Sydney*, Sydney, NSW, Australia.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+ Completed a PhD at the University of Sydney, Australia. The topic of the thesis is looking at connectivity patterns of tropical and temperate reef fish along NSW, using advanced biophysical modelling techniques. Part of the thesis is also looking at the biological mechanisms that influence connectivity patterns. There was also a fieldwork component that involved undertaking larval fish surveys on the RV Investigator to gather data to parameterise the models.
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
+ **Thesis Data Chapters**<br>
+*Chapter 1*. Making the right choices: understanding the impact of biophysical dispersal modelling on connectivity patterns<br>
+*Chapter 2.* Size and stage-dependent vertical migration patterns in the larval fish of temperate reef-associated fishes and the effects of entrainment in cold-core eddies off the coast off New South Wales, Australia<br>
+*Chapter 3.* Comparing the influence of the implementation of different larval behavioural strategies on connectivity patterns in biophysical dispersal models<br>
+*Chapter 4.* Estimating the larval dispersal of black cod *Epinephelus daemelii* across is distribution along the eastern coast of Australia and potential implications for its conservation management<br>
 
 `2012`
-President, *Royal Society*, London, UK
+**Bachelor of Science Honours (Biology major)**, *University of Sydney*, Sydney, NSW, Australia
+Graduated with first class honours
 
-Associate, *French Academy of Science*, Paris, France
+`2008-2011`
+**Bachelor of Science (Biology major)**, *University of Sydney*, Sydney, NSW, Australia
+Final year subjects included Marine Biology, Bioinformatics, Ecological Methods, Ecology and Terrestrial Field Ecology.
 
+`2003`
+**Bachelor of Science Honours (Computer Science major)**, *Flinders University*, Adelaide, SA, Australia
+Graduated with first class honours
 
+`2000 – 2002`
+**Bachelor of Computer Science (Mathematics minor)**, *University of Adelaide*, Adelaide, SA, Australia
+
+## Experience
+
+`2005-2013`
+**Senior Developer**, *Department of Employment, Australian Government*, Canberra and Sydney, Australia.
+The role has involved the development of both windows applications and websites to facilitate the Australian Government’s employment policies. The role is primarily .NET development. Senior developers are required to work on all parts of the development lifecycle, from gathering requirements, design, coding and testing. Managing a small team of developers is also part of the duties performed, including project management and mentoring of graduates. All development incorporated using the .NET 4.0 framework, MVC3 and SQL Server 2008 R2.
+
+`2004-2005`
+**Junior Developer**, *Health Insurance Commission, Australian Government*, Canberra, ACT, Australia
+Undertook both analyst and programmer roles within the department, working on both Public Key Infrastructure and e-Health Standards. Developed HL7v3 messaging standards in conjunction with the Standards Australia IT 14-4 working group.
+
+## General Skills
+
+Experienced in working under pressure and meeting tight deadlines<br>
+Excellent understanding of team work and leading a small team<br>
+Very good communication skills, in particular technical writing<br>
+Ability to work well under limited direction<br>
+Manages time effectively and adapts well to flexible hours and adhoc tasks<br>
+
+## Technical Skills
+**Programming languages**: Scala, R, Python, C#,  Java, SQL<br>
+**Statistical software**: R Studio, SPSS, Statistica, PRIMER, GMAV<br>
+**GIS software**: QGIS, ArcGIS, R<br>
+**General software**: Microsoft office suite (Word, Excel, PowerPoint, Access, Outlook), Abode creative suite (Photoshop, Illustrator), Git and version control<br>
+**Lab techniques**: Light microscopy and photography, DNA electrophoresis, mass spectrometry, handling of chemicals, animal dissections<br>
+**Project management**: Using project tools and methodologies selectively to support organisational or business activities. Certificate IV in project management, ASCED qualification
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+*Publication list also available [in Google Scholar](https://scholar.google.com.sg/citations?hl=en&user=ouQvUUQAAAAJ)*
+
+### In revision
+
+**S Hawes**,  A Miskiewicz , V Garcia, and W Figueira. Size and stage-dependent vertical migration patterns in reef-associated fish larvae off the eastern coast of Australia. *Deep-Sea Research Part II: Topical Studies in Oceanography*, in revision.
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2015`
+W Figueira, R Ferrari, E Weatherby, A Porter, **S Hawes**, M Byrne. Accuracy and precision of habitat structural complexity metrics derived from underwater photogrammetry. *Remote Sensing*, 7 (12), 16883-16900.  doi:[10.3390/rs71215859](https://doi.org/10.3390/rs71215859)
 
-`1669`
-Lectiones opticæ.
+## Awards and honors
 
-etc. etc. etc.
+`2014`
+  **Peter Holloway Award Oceanography Award - Best Oral Presentation**, *Australian Marine Sciences Association*,  Canberra, ACT,  Australia
+  
+`2014`
+**Elected President of the Biological Sciences Postgraduate Society**, *University of Sydney*
 
-### Patents
+`2013-2017`
+**Australian Postgraduate Award Scholarship**, *University of Sydney*, Funding for four years full time, Australian Government.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Conference activity
 
+### Presentations
 
-## Occupation
+`2018`
+**S Hawes**, W Figueira. Modelling the connectivity of the black cod (*Epinephelus daemelii*): is there overlap with the current MPA network? 5th International Marine Conservation Congress, Kuching, Malaysia
 
-`1600`
-__Royal Mint__, London
+`2018`
+**S Hawes**, W Figueira. Modelling the connectivity of the black cod (*Epinephelus daemelii*): where do the larvae go?  Australian Marine Sciences Association, Adelaide, Australia
 
-- Warden
-- Minted coins
+`2017`
+**S Hawes**, W Figueira. An analysis of current trends in connectivity modelling and where to next. Australian Marine Sciences Association, Darwin, Australia
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2015`
+**S Hawes**, W Figueira, D Cruz,  H Shilling, V Garcia, A Miskiewicz, I Suthers. Vertical distribution of temperate reef fish larvae off NSW. Australian Society of Fish Biology, Sydney, Australia
 
+`2015`
+**S Hawes**, W Figueira. Making sense of connectivity studies using a
+biophysical modelling approach - a systematic review. Australian Marine Sciences Association, Geelong, Australia
 
+`2014`
+**S Hawes**, W Figueira. Modelling reef fish connectivity: evaluating larval sources and sinks and the importance of biophysical transport processes. Australian Marine Sciences Association, Canberra, Australia
 
-<!-- ### Footer
+### Posters 
 
-Last updated: May 2013 -->
+`2016`
+**S Hawes**, W Figueira. Connectivity of temperate reef fish along the eastern Australian coast and the effect of ontogenetic vertical migration. Ocean Sciences Meeting, New Orleans, USA
 
+## Teaching
 
+`2015-2018`
+**Lab and Field Demonstrator**, *University of Sydney*, Sydney, Australia <br>
+
+Demonstrator for practical classes in both the laboratory and field at the University of Sydney for several courses within the School of Life and Environmental Science. Duties involved instructing and teaching students new skills and analytical techniques as per the syllabus, marking assignments using the Turnitin software, and exam supervision. The demonstrating covered courses across a three year bachelor degree, including the subjects Concepts in Biology, Living Systems, Ecology and Conservation, Experimental Design, and Marine Biology .
+
+## Languages
+
+English: Native Speaker
+
+## Memberships
+
+`2013 - Present`
+Australian Marine Sciences Association
+
+`2018 - Present`
+Society of Conservation Biology
