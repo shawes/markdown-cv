@@ -35,7 +35,11 @@ Family: Married (Spouse is Singapore Citizen)
 
  Completed a PhD at the University of Sydney, Australia. The topic of the thesis is looking at connectivity patterns of tropical and temperate reef fish along NSW, using advanced biophysical modelling techniques. Part of the thesis is also looking at the biological mechanisms that influence connectivity patterns. There was also a fieldwork component that involved undertaking larval fish surveys on the RV Investigator to gather data to parameterise the models.
 
- **Thesis Data Chapters**<br>
+**Thesis title:** Modelling reef fish connectivity: Investigating the biological mechanisms that influence connectivity patterns
+
+**PhD Supervisor:** A/Prof. Will Figueira
+
+ **Thesis data chapters**<br>
 *Chapter 1*. Making the right choices: understanding the impact of biophysical dispersal modelling on connectivity patterns<br>
 *Chapter 2.* Size and stage-dependent vertical migration patterns in the larval fish of temperate reef-associated fishes and the effects of entrainment in cold-core eddies off the coast off New South Wales, Australia<br>
 *Chapter 3.* Comparing the influence of the implementation of different larval behavioural strategies on connectivity patterns in biophysical dispersal models<br>
